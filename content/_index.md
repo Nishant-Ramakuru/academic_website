@@ -22,7 +22,7 @@ sections:
       title: Contacts
       subtitle:
       text: |-  
-        Feel free to reach out, I’m always interested in hearing about opportunities to collaborate or apply research to real-world problemsadsfsf
+        Feel free to reach out, I’m always interested in hearing about opportunities to collaborate or apply research to real-world problems.
       # Contact (add or remove contact options as necessary)
       email: ramakurunishant@gmail.com
     design:
