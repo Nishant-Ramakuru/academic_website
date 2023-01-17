@@ -18,7 +18,7 @@ sections:
   
   - block: contact
     id: contact
-    title: dsfad
+    text: dsfad
     content:
       title: Contacts
       subtitle:
