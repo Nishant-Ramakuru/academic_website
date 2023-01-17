@@ -11,10 +11,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: I’m a Robotics Engineer working at HALCON in the Research & Development department. I hold a MSc in Robotics and Autonomous Systems from University of Bristol, where I worked on multi-agent systems, game theory, evolutionary algorithms and artificail intelligence. Prior to this I worked as a Machine Learning Engineer at ALGO8 after passing out from the International Institute Of Information Technology, Pune, with a BEng in electronics. 
+      text: I’m a Robotics Engineer working at HALCON in the Research & Development department. I hold a MSc in Robotics and Autonomous Systems from University of Bristol, where I worked on multi-agent systems, game theory, evolutionary algorithms and artificail intelligence. Prior to this I worked as a Machine Learning Engineer at ALGO8 after passing out from the International Institute Of Information Technology, Pune, with a BEng in electronics. asdffads 
       {style="text-align: justify;"}
     design:
-      columns: '2'
+      columns: '3'
   
   - block: contact
     id: contact
